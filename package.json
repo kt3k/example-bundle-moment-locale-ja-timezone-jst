@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "globify": "^1.2.2",
+    "globify": "^2.0.0",
     "moment": "^2.15.1",
     "moment-timezone": "^0.5.6"
   }
